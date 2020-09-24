@@ -12,7 +12,7 @@
         "start": "ts-node ."
     },
     "author": "Carter Himmel <fyko@sycer.dev>",
-    "license": "UNLICENSED",
+    "license": "Apache-2.0",
     "dependencies": {
         "camelcase": "^6.0.0",
         "node-fetch": "^2.6.1",
